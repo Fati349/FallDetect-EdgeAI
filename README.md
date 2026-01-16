@@ -1,5 +1,5 @@
 # Aperçu du Projet
-## Détection de chutes en temps réel par analyse audio embarquée sur EFR32MG24
+Détection de chutes en temps réel par analyse audio embarquée sur EFR32MG24
 Un système de surveillance pour personnes âgées utilisant le Machine Learning sur microcontrôleur
 ## Composants Principaux
 **Matériel**
